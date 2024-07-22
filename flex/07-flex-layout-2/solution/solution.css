@@ -50,7 +50,7 @@ body {
 
 .sidebar {
   flex-shrink: 0;
-  padding: 16px;
+  padding: 16px; 
 }
 
 ul {
